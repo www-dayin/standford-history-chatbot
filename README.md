@@ -1,0 +1,2 @@
+# standford-history-chatbot
+极客时间大模型课程demo-利用GPT生成standford历史的问答数据，利用向量数据存储相关生成的问答数据，基于LLM的embedding能力，利用langchain框架开发，利用gradio做前端展示。
